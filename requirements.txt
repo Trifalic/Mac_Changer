@@ -1,0 +1,19 @@
+# requirements.txt for MAC\_Changer
+
+# Standard Python libraries, no external packages required
+
+# Listed here in case you want to install via pip
+
+# No additional packages required. The script uses:
+
+# - subprocess (built-in)
+
+# - re (built-in)
+
+# - random (built-in)
+
+# - string (built-in)
+
+# If you want to specify Python version:
+
+python>=3.8
